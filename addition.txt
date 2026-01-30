@@ -1,1 +1,2 @@
 print("Addition:", 40+30)
+print("Subtraction:", 90-50)
